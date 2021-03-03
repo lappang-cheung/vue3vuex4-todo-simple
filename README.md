@@ -1,5 +1,7 @@
 # vue_todo
 
+Dummy app for learning Vue 3 with Vuex 4
+
 ## Project setup
 ```
 yarn install
